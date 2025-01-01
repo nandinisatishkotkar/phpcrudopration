@@ -1,0 +1,29 @@
+
+.container{
+    background-color:rgba(201, 160, 56, 0.934);
+}
+
+.card{
+    margin-top: 40pt;
+     background-color:black;
+     margin-left: 30px;
+     
+
+}
+.card2{
+    margin-bottom:40px;
+    margin-left: 20px;
+}
+.card3{
+    margin-top: 5px;
+}
+
+ .header{
+    text-align: center;
+    color: white;
+ }   
+
+
+.email{
+    text-align: center;
+}
